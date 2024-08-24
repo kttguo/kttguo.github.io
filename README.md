@@ -179,10 +179,10 @@ Shows at site header part.
 
 ```yml
 # Site settings
-title: HyG
+title: TTG
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://kttguo.github.io/" # the base hostname & protocol for your site
 ```
 
 #### Link info
@@ -191,16 +191,16 @@ Mainly shows at the footer of the site.
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+twitter_username: #gaohaoyang126
+facebook_username: #gaohaoyang.water
+github_username:  kttguo
+email: #gaohaoyang126@126.com
+weibo_username: #3115521wh
+zhihu_username: #gaohaoyang
+linkedIn_username: #gaohaoyang
 dribbble_username:
 
-description_footer: 本站记录我程序的沿途风景！
+description_footer: 本站记录我代码之路的沿途风景！
 ```
 
 #### Comments info

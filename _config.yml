@@ -17,14 +17,14 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username:
 facebook_username:
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+github_username:  kttgup
+email: #gaohaoyang126@126.com
+weibo_username: #3115521wh
+zhihu_username: #aohaoyang
+linkedIn_username: #gaohaoyang
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 本站记录我代码之路的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
